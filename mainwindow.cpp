@@ -124,6 +124,7 @@ void mainwindow::create_tool_buttons()
         ui.action_open,
         ui.action_save,
         ui.action_save_as,
+        ui.action_close,
         ui.action_quit,
     };
     for (const auto& tool_action : tool_actions)
