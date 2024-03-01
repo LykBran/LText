@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LText", "LText.vcxproj", "{61CD7C64-F017-4755-8ED7-AFE65F219224}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61CD7C64-F017-4755-8ED7-AFE65F219224}.Debug|x64.ActiveCfg = Debug|x64
+		{61CD7C64-F017-4755-8ED7-AFE65F219224}.Debug|x64.Build.0 = Debug|x64
+		{61CD7C64-F017-4755-8ED7-AFE65F219224}.Release|x64.ActiveCfg = Release|x64
+		{61CD7C64-F017-4755-8ED7-AFE65F219224}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB888B23-C49F-4AD5-B6CA-490122484AC0}
+	EndGlobalSection
+EndGlobal
